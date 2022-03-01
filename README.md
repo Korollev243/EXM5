@@ -9,6 +9,7 @@ float y;
 printf("Введите число x:/n");
 scanf("%d"&x);
 y=ln(x);
+y=y*2;
 printf("Ответ:%f",y);
 getchar 0;
 }
